@@ -1,0 +1,140 @@
+{
+  "title": "home",
+  "molecules": [
+  {
+    "type": "text_field",
+    "data": {
+      "name": "rendered from server"
+    }
+  },
+  {
+    "type": "circular_photo",
+    "data": {
+      "name": "Danielle MacInnes",
+      "photo": "https://picsum.photos/id/1/5616/3744"
+    }
+  },
+  {
+    "type": "text_field",
+    "data": {
+      "name": "rendered from server"
+    }
+  },
+    {
+    "type": "title_text",
+    "data": {
+      "name": "title rendered from server"
+    }
+  },
+    {
+    "type": "presenter_button",
+    "data": {
+      "name": "button from server"
+    }
+  },
+  {
+    "type": "circular_photo",
+    "data": {
+      "name": "NASA MacInnes",
+      "photo": "https://picsum.photos/id/100/2500/1656"
+    }
+  },
+    {
+    "type": "circular_photo",
+    "data": {
+      "name": "Greg Rakozy",
+      "photo": "https://picsum.photos/id/1001/5616/3744"
+    }
+  },
+    {
+    "type": "text_field",
+    "data": {
+      "name": "rendered from server"
+    }
+  },
+  {
+    "type": "circular_photo",
+    "data": {
+      "name": "Danielle MacInnes",
+      "photo": "https://picsum.photos/id/1/5616/3744"
+    }
+  },
+  {
+    "type": "text_field",
+    "data": {
+      "name": "rendered from server"
+    }
+  },
+    {
+    "type": "title_text",
+    "data": {
+      "name": "title rendered from server"
+    }
+  },
+    {
+    "type": "presenter_button",
+    "data": {
+      "name": "button from server"
+    }
+  },
+  {
+    "type": "circular_photo",
+    "data": {
+      "name": "NASA MacInnes",
+      "photo": "https://picsum.photos/id/100/2500/1656"
+    }
+  },
+    {
+    "type": "circular_photo",
+    "data": {
+      "name": "Greg Rakozy",
+      "photo": "https://picsum.photos/id/1001/5616/3744"
+    }
+  },
+    {
+    "type": "text_field",
+    "data": {
+      "name": "rendered from server"
+    }
+  },
+  {
+    "type": "circular_photo",
+    "data": {
+      "name": "Danielle MacInnes",
+      "photo": "https://picsum.photos/id/1/5616/3744"
+    }
+  },
+  {
+    "type": "text_field",
+    "data": {
+      "name": "rendered from server"
+    }
+  },
+    {
+    "type": "title_text",
+    "data": {
+      "name": "title rendered from server"
+    }
+  },
+    {
+    "type": "presenter_button",
+    "data": {
+      "name": "button from server"
+    }
+  },
+  {
+    "type": "circular_photo",
+    "data": {
+      "name": "NASA MacInnes",
+      "photo": "https://picsum.photos/id/100/2500/1656"
+    }
+  },
+    {
+    "type": "circular_photo",
+    "data": {
+      "name": "Greg Rakozy",
+      "photo": "https://picsum.photos/id/1001/5616/3744"
+    }
+  }
+  ]
+}
